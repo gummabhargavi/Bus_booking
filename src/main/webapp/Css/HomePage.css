@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+.jumbotron{
+ background: 
+linear-gradient(
+  rgba(0, 0, 250, 0.25), 
+  rgba(125, 250, 250, 0.45)
+),url("../image/pic1.jpg");
+border-radius:10px;
+background-size:cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+color:white !important;
+height:340px;
+}
+#main_Heading{
+font-family:fantasy;
+color:white;
+}
+
+#slogn{
+font-family:cursive;
+color:white;
+}
+.form-inline{
+margin-left: 90ex;
+}

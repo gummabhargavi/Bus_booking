@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+.jumbotron{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,86,125,1) 100%, rgba(0,212,255,1) 100%);
+background-size:contain;
+background-repeat: no-repeat;
+background-attachment: fixed;
+height:20ex;
+}
+#main_Heading{
+font-family:cursive;
+color:white;
+font-size:5ex;
+margin: 0;
+}
+img{
+	width: 20ex;
+	height:25ex;
+	padding-bottom:7ex;
+	margin-top:-7ex;
+	}
+#pageheading{
+text-align: center;
+text-decoration:underline;
+font-family: monospace;
+
+}
